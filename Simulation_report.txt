@@ -1,0 +1,8 @@
+Simulation Report – Pipeline Processor
+
+A simple 4-stage pipelined processor was designed.
+The instruction passes through IF, ID, EX, and WB stages
+on successive clock cycles.
+
+The pipeline operation was observed successfully.
+The design meets the task requirements.
